@@ -1,0 +1,9 @@
+# See https://github.com/github/linguist
+
+# Project-specific overrides
+*.html linguist-vendored
+*.jpg binary
+src/**/*.astro linguist-detectable
+public/index.html linguist-vendored
+*.map linguist-generated
+# eof 74ecb5dc
