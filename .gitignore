@@ -1,0 +1,7 @@
+yarn-error.log*
+dist/
+.cache/
+coverage/
+.env
+.next/
+build/
